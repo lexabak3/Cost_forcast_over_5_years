@@ -10,3 +10,11 @@ Output requirements
 - create an output dataset that is easily pivotable. 
 
 # Result
+
+![](chart1.png)
+
+![](chart2.png)
+
+![](chart3.png)
+
+![](df.png)
