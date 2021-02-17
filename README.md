@@ -8,3 +8,5 @@ Output requirements
 - create a stacked bar chart showing combined costs (storage and removal) over 5 years, by country and manufacturer;
 - create a stacked bar chart showing cost of storage and removal over 5 years;
 - create an output dataset that is easily pivotable. 
+
+# Result
